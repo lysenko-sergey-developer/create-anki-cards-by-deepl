@@ -26,6 +26,10 @@ pip3 install -r requirements.txt
 python3 create-anki-cards-by-deepl.py --input file.txt --target-lang RU --name "my deck" --auth-key=<AUTH-KEY>
 ```
 
+Try print help if you want know all options
+```
+python3 create-anki-cards-by-deepl.py --help
+```
 
 ## TODO
 - [ ] Add user readable output when app process some issues
