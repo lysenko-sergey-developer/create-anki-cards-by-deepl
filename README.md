@@ -16,14 +16,14 @@ python3
 
 pip3
 
-DeepL Api-Key (you can get it by this [link](https://www.deepl.com/pro-api?cta=header-pro-api)
+DeepL Api-Key (you can get it by this [link](https://www.deepl.com/pro-api?cta=header-pro-api))
 
 ## Example of usage
 ```  
 git clone https://github.com/lysenko-sergey-developer/create-anki-cards-by-deepl.git
 cd create-anki-cards-by-deepl
 pip3 install -r requirements.txt 
-python3 create-anki-cards-by-deepl.py --input file.txt --target-lang RU --name "my deck" --auth-key=<AUTH-KEY>
+python3 create-anki-cards-by-deepl.py --input example-input.txt --target-lang RU --name "my deck" --auth-key=<AUTH-KEY>
 ```
 
 Try print help if you want know all options

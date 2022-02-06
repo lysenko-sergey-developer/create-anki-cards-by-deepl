@@ -99,7 +99,7 @@ Create Anki cards with DeepL translation
 
 Example:
 
-    python3 create-anki-cards-by-deepl.py --input file.txt --target-lang RU --name "my deck" --auth-key=<AUTH-KEY>
+    python3 create-anki-cards-by-deepl.py --input example-input.txt --target-lang RU --name "my deck" --auth-key=<AUTH-KEY>
 
 Options:
     --help              Show help                           [boolean]
