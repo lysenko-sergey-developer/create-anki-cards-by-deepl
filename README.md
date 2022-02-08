@@ -1,4 +1,4 @@
-# Create Anki cards by DeepL
+#  Create Anki cards by DeepL
 
 Tested only on Mac so if you will have some problems feel free to open issues.
 
